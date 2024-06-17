@@ -6,16 +6,11 @@ Overview
 This portfolio is designed to provide an overview of my academic background, technical expertise, and extracurricular activities. It is a platform where you can learn more about my professional journey and the projects I have worked on.
 
 Features
-    Home Page: 
-      A brief introduction about myself and my current pursuits.
-    About Me:
-      Detailed information about my educational background, including my current studies at the University of Westminster and previous qualifications.
-    Skills: 
-      A comprehensive list of my technical skills, including programming languages, web development technologies, and other relevant proficiencies.
-    Projects: 
-      Showcase of my projects, with descriptions and links to the respective repositories or live demos.
-    Contact: 
-      Information on how to get in touch with me, including my email address and links to my social media profiles.
+Home Page: A brief introduction about myself and my current pursuits.
+About Me: Detailed information about my educational background, including my current studies at the University of Westminster and previous qualifications.
+Skills: A comprehensive list of my technical skills, including programming languages, web development technologies, and other relevant proficiencies.
+Projects: Showcase of my projects, with descriptions and links to the respective repositories or live demos.
+Contact: Information on how to get in touch with me, including my email address and links to my social media profiles.
 
 Technologies Used
     HTML5 & CSS3: For structuring and styling the website.
