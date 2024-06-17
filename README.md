@@ -23,34 +23,32 @@ Technologies Used
     Netlify: For deploying and hosting the website.
 
 Sections
-    Home
-      The home page provides a warm welcome and a brief introduction, setting the stage for visitors to explore more about me and my work.
 
-    About Me
-      This section delves into my educational background, including:
+Home
+The home page provides a warm welcome and a brief introduction, setting the stage for visitors to explore more about me and my work.
 
-      BEng (Hons) - Software Engineering at the University of Westminster
-      Diploma in Information Technology from ESOFT Metro Campus
-      Diploma in English from ESOFT Metro Campus
-      Foundation Certificate in Higher Education from the University of Westminster
+About Me
+This section delves into my educational background, including:
+    BEng (Hons) - Software Engineering at the University of Westminster
+    Diploma in Information Technology from ESOFT Metro Campus
+    Diploma in English from ESOFT Metro Campus
+    Foundation Certificate in Higher Education from the University of Westminster
 
-    Skills
-      A detailed list of my skills, such as:
+Skills
+A detailed list of my skills, such as:
+    Programming Languages: Python, Java
+    Web Development: HTML, CSS, JavaScript
+    Other Skills: Algorithm Development, Logic Design, Databases, Statistical Data Analysis
+    Languages: English, Sinhala, Korean
 
-      Programming Languages: Python, Java
-      Web Development: HTML, CSS, JavaScript
-      Other Skills: Algorithm Development, Logic Design, Databases, Statistical Data Analysis
-      Languages: English, Sinhala, Korean
+Projects
+A showcase of my projects, highlighting my practical experience and contributions. Each project includes a brief description, technologies used, and links to the              project repository or live demo.
 
-    Projects
-      A showcase of my projects, highlighting my practical experience and contributions. Each project includes a brief description, technologies used, and links to the              project repository or live demo.
-
-    Contact
-      Details on how to reach me, including:
-
-      Email: sayurangachalana@gmail.com
-      LinkedIn: LinkedIn Profile
-      GitHub: GitHub Profile
+Contact
+Details on how to reach me, including:
+    Email: sayurangachalana@gmail.com
+    LinkedIn: LinkedIn Profile
+    GitHub: GitHub Profile
 
 How to Access
 You can visit my portfolio website at chalana-sayuranga.netlify.app.
